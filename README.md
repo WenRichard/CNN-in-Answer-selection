@@ -10,6 +10,7 @@
 |QACNN|No|0.5|2115200|0.5|100|0.655|0.673|  
 |QACNN|Yes|0.5|481664|0.5|100|0.684|0.697|  
 |QACNN|Yes|0.5|481664|0.25|100|0.668|0.674|  
+|QACNN|Yes|0.5|481664|0.2|100|0.690|0.695|  
 
 **Loss**：
 ![Pairwise Loss]( https://github.com/WenRichard/QACNN/raw/master/photo/loss0.5.png)  
